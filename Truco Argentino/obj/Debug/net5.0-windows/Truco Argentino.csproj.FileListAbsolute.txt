@@ -1,0 +1,33 @@
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\Truco Argentino.exe
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\Truco Argentino.deps.json
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\Truco Argentino.runtimeconfig.json
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\Truco Argentino.runtimeconfig.dev.json
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\Truco Argentino.dll
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\ref\Truco Argentino.dll
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\Truco Argentino.pdb
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco Argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco Argentino.AssemblyInfoInputs.cache
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco Argentino.AssemblyInfo.cs
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco Argentino.csproj.CoreCompileInputs.cache
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco Argentino.dll
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\ref\Truco Argentino.dll
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco Argentino.pdb
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco Argentino.genruntimeconfig.cache
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco_Argentino.FrmHistorial.resources
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco_Argentino.FrmIniciarJugadores.resources
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco_Argentino.FrmJuego.resources
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco_Argentino.FrmMenu.resources
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco Argentino.csproj.GenerateResource.cache
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco Argentino.csproj.CopyComplete
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco Argentino.csproj.AssemblyReference.cache
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco_Argentino.FrmCrearCuenta.resources
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco_Argentino.FrmContador.resources
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco_Argentino.FrmBot.resources
+C:\Users\fa_mg\source\repos\Truco Argentino\Truco Argentino\obj\Debug\net5.0-windows\Truco_Argentino.Properties.Resources.resources

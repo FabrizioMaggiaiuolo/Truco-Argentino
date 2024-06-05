@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Truco_Argentino.ADO">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAEAAQAAAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAE=</HashCode>
+      <FileName>ADO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Truco_Argentino.ADOPartidas">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAEAAQAAAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAE=</HashCode>
+      <FileName>ADO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Truco_Argentino.Carta">
+    <Position X="12.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAEAEAAAAAEAAAABAAAAAEACAABAAA=</HashCode>
+      <FileName>Carta.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Mazo" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Truco_Argentino.Jugador">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAKAAAACgAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Jugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Truco_Argentino.Mazo">
+    <Position X="12.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAIAgAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Mazo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Truco_Argentino.Partida">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAABAAAAAAUMhEAADIAAAAghIAIAAQAAIhcJBD4Bg=</HashCode>
+      <FileName>Partida.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Truco_Argentino.ILimpiarForms">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ADO" />
+      <Property Name="ADOPartidas" />
+    </ShowAsAssociation>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

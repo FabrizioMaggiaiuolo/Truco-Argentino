@@ -1,0 +1,1 @@
+﻿public enum EPalo {Basto,Espada,Copa,Oro }
