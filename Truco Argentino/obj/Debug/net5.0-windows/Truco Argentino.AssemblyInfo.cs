@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Truco Argentino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00d5ede03f95dff8420a040c4457531acf32d469")]
 [assembly: System.Reflection.AssemblyProductAttribute("Truco Argentino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Truco Argentino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

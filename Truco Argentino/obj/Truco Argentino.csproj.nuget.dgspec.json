@@ -1,29 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fa_mg\\source\\repos\\Truco Argentino\\Truco Argentino\\Truco Argentino.csproj": {}
+    "F:\\Files\\Code\\C#\\Truco-Argentino\\Truco Argentino\\Truco Argentino.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fa_mg\\source\\repos\\Truco Argentino\\Truco Argentino\\Truco Argentino.csproj": {
+    "F:\\Files\\Code\\C#\\Truco-Argentino\\Truco Argentino\\Truco Argentino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fa_mg\\source\\repos\\Truco Argentino\\Truco Argentino\\Truco Argentino.csproj",
+        "projectUniqueName": "F:\\Files\\Code\\C#\\Truco-Argentino\\Truco Argentino\\Truco Argentino.csproj",
         "projectName": "Truco Argentino",
-        "projectPath": "C:\\Users\\fa_mg\\source\\repos\\Truco Argentino\\Truco Argentino\\Truco Argentino.csproj",
+        "projectPath": "F:\\Files\\Code\\C#\\Truco-Argentino\\Truco Argentino\\Truco Argentino.csproj",
         "packagesPath": "C:\\Users\\fa_mg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fa_mg\\source\\repos\\Truco Argentino\\Truco Argentino\\obj\\",
+        "outputPath": "F:\\Files\\Code\\C#\\Truco-Argentino\\Truco Argentino\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fa_mg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packagesource": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0-windows7.0": {
@@ -43,11 +42,11 @@
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[13.0.1, )"
+              "version": "[13.0.3, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.8.5, )"
+              "version": "[4.8.6, )"
             }
           },
           "imports": [
@@ -56,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
